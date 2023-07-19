@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #input-container {
+    margin-bottom: 20px;
+  }
+  
+  #block-heights {
+    width: 300px;
+  }
+  
+  #calculate-btn {
+    margin-left: 10px;
+  }
+  
+  #result-container {
+    text-align: center;
+  }
+  
+  #result {
+    font-weight: bold;
+  }
+  
